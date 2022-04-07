@@ -1,0 +1,24 @@
+{
+  "name": "oraclechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browserdriver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordTurban/OracleChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordTurban/OracleChallenge/issues"
+  },
+  "homepage": "https://github.com/LordTurban/OracleChallenge#readme",
+  "dependencies": {
+    "msedgedriver": "^91.0.0",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
